@@ -13,11 +13,9 @@
 }
 
 .cover {
-  background: url(../../image/coffee-background.jpg) no-repeat;
-  background-size: cover;
+  background: url(../../image/coffee-background.jpg) no-repeat center/cover;
 }
 
 .contain {
-  background: url(../../image/coffee-background.jpg) center no-repeat;
-  background-size: contain;
+  background: url(../../image/coffee-background.jpg) no-repeat center/contain;
 }

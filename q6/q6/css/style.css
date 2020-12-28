@@ -25,12 +25,14 @@ header {
   color: #f2ff7b;
 }
 
+nav ul {
+  display: flex;
+  justify-content: space-between;
+}
 nav li {
-  display: inline-block;
+  padding: 30px;
 }
 
 nav li a {
-  display: inline-block;
   color: #ffffff;
-  margin: 30px;
 }
